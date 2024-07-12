@@ -8,7 +8,6 @@ developer who is constantly learning and growing.</h1>
 
 - 📫 How to reach me **rgnmd1235@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
