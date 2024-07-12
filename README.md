@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm This is Dongwook Kim(Eueukk), </h1>
-<h3 align="left">developer who is constantly learning and growing.</h3>
+<h1 align="left">Hi 👋, I'm This is Dongwook Kim(Eueukk),<br>
+developer who is constantly learning and growing.</h1>
 <h3 align="left">A passionate backend developer from Korea</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eueukk&label=Profile%20views&color=0e75b6&style=flat" alt="eueukk" /> </p>
